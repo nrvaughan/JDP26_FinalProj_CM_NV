@@ -2,8 +2,8 @@
 * Project: JDP26 DIY DJ Deck
 * File: main.c
 *
-* Student Name: Nick Vaughan
-* Team Members: Colin Medeiros
+* Student Name: Nick Vaughan, Colin Medeiros
+* Team Members: Nick Vaughan, Colin Medeiros
 *
 * Course: ECE 304 – Junior Design Project (JDP26)
 * Instructor: Prof. Baird Soules
